@@ -1,2 +1,2 @@
 # About Us
-# 🩸 Blood Gang, Inc
+## 🩸 Blood Gang, Inc
