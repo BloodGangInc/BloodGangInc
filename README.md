@@ -5,3 +5,8 @@ Made with 🩸 & 🥀
 
 We're a community about sharing code, helping other degenerates like yourself, improve on
 any programming language on the internet.
+
+
+# Organization
+
+https://github.com/Blood-Gang-Inc
