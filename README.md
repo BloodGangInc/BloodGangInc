@@ -1,7 +1,7 @@
 # About Us
 
 # 🩸 Blood Gang, Inc 🥀 Community
-Made with 🩸 & 🥀
+  Made with 🩸 !
 
 We're a community about sharing code, helping other degenerates like yourself, improve on
 any programming language on the internet.
