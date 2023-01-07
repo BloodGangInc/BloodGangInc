@@ -9,4 +9,6 @@ any programming language on the internet.
 
 # Organization
 
-[@Blood-Gang-Inc](https://github.com/Blood-Gang-Inc) [@bloodganginc](https://www.youtube.com/@bloodganginc)
+[@Blood-Gang-Inc](https://github.com/Blood-Gang-Inc) 
+
+[@bloodganginc](https://www.youtube.com/@bloodganginc)
