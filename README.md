@@ -1,11 +1,3 @@
-# About Us
-
-# 🩸 Blood Gang, Inc 🥀 Community
-  Made with 🩸 !
-
-We're a community about sharing code, helping other degenerates like yourself, improve on
-any programming language on the internet.
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,9 +17,3 @@ any programming language on the internet.
     <p>Feel free to reach out to me via email at [Your Email] or connect with me on [Social Media]. I'd love to hear from you!</p>
 </body>
 </html>
-
-# Organization
-
-[@Blood-Gang-Inc](https://github.com/Blood-Gang-Inc) 
-
-[@bloodganginc](https://www.youtube.com/@bloodganginc)
