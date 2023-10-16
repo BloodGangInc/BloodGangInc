@@ -1,4 +1,4 @@
- <header>
+<header>
         <h1>About Me</h1>
         <p>Welcome to my GitHub page!</p>
     </header>
