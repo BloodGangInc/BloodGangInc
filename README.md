@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
-        header {
+header {
             background-color: #292a2d;
             color: #ffffff;
             text-align: center;
