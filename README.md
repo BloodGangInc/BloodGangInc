@@ -1,28 +1,4 @@
-header {
-            background-color: #292a2d;
-            color: #ffffff;
-            text-align: center;
-            padding: 20px;
-        }
-        h1 {
-            font-size: 36px;
-            margin: 0;
-        }
-        p {
-            font-size: 18px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #ffffff;
-            border-radius: 5px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-    </style>
-</head>
-<body>
-    <header>
+ <header>
         <h1>About Me</h1>
         <p>Welcome to my GitHub page!</p>
     </header>
