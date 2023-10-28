@@ -5,7 +5,7 @@
    <h5>Follow our Team Leaders:</h2>
           <ul>
          <li><a href = "https://degenerates2.carrd.co/#l4zx16"; target="_blank">Owner</a></li>
-           <li><a href = "https://degenerates2.carrd.co/#l7zh14"; target="_blank">Co Owner</a>li>
+           <li><a href = "https://degenerates2.carrd.co/#l7zh14"; target="_blank">Co Owner</a></li>
         </ul>
   </p>
     </header>
