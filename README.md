@@ -2,10 +2,10 @@
         <h1>About Us</h1>
         <p>Welcome to our GitHub page!</p>
   <p>
-   <h2>Follow our Team Leaders:</h2>
+   <h5>Follow our Team Leaders:</h2>
           <ul>
-         <li><a href = "https://twitter.com/4zx16_"; target="_blank">4zx16 — Owner/Founder</a></li>
-           <li><a href = "https://twitter.com/7zh141"; target="_blank">7zh14 — Co Owner</a></li>
+         <li><a href = "https://twitter.com/4zx16_"; target="_blank">4zx16 ⁄ Owner/Founder</a></li>
+           <li><a href = "https://twitter.com/7zh141"; target="_blank">7zh14 ⁄ Co Owner</a></li>
         </ul>
   </p>
     </header>
