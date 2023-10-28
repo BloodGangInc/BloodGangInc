@@ -24,7 +24,7 @@
         </ul>
         <h2>What You'll Find Here</h2>
         <p>
-            This GitHub account is a place where we showcase our projects, collaborate with others, and contribute to open-source communities. Feel free to explore my repositories and contributions. If you'd like to get in touch or collaborate, don't hesitate to contact us.
+            This GitHub account is a place where we showcase our projects, collaborate with others, and contribute to <a href = "https://reddit.com/r/4zx16"; target="_blank">open-source communities</a>. Feel free to explore my repositories and contributions. If you'd like to get in touch or collaborate, don't hesitate to contact us.
         </p>
     </div>
 </body>
