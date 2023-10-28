@@ -1,9 +1,9 @@
  <header>
-        <h1>About Me</h1>
-        <p>Welcome to my GitHub page!</p>
+        <h1>About Us</h1>
+        <p>Welcome to our GitHub page!</p>
     </header>
     <div class="container">
-        <h2>Hello, welcome to Blood Gang™️, Inc</h2>
+        <h2>Hello, welcome to Blood Gang™️, Inc! 💖</h2>
         <p>
             We're a passionate developer and enthusiast in the world of coding and open-source software. Our journey in the tech world has been full of exciting challenges and opportunities, and we are here to share some of my work and interests with you.
         </p>
