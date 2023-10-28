@@ -1,6 +1,13 @@
  <header>
         <h1>About Us</h1>
         <p>Welcome to our GitHub page!</p>
+  <p>
+   Follow our Team Leaders:
+          <ul>
+         <li><a href = "https://4zx16.github.io/4zx16/" target="_blank">4zx16</a></li>
+           <li><a href = "https://linkr.it/7zh14" target="_blank">7zh14</a></li>
+        </ul>
+  </p>
     </header>
     <div class="container">
         <h2>Hello, welcome to Blood Gang™️, Inc! 💖</h2>
