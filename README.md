@@ -1,5 +1,5 @@
  <header>
-        <h1>About Us</h1>
+        <h1><a href = "https://degenerates2.carrd.co"; target="_blank">About Us</a></h1>
         <p>Welcome to our GitHub page!</p>
   <p>
    <h5>Follow our Team Leaders:</h2>
