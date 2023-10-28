@@ -4,8 +4,8 @@
   <p>
    Follow our Team Leaders:
           <ul>
-         <li><a href = "https://github.com/4zx16" target="_blank">4zx16 | Owner/Founder</a></li>
-           <li><a href = "https://github.com/7zh14" target="_blank">7zh14 | Co Owner</a></li>
+         <li><a href = "https://github.com/4zx16" target="_blank">4zx16 — Owner/Founder</a></li>
+           <li><a href = "https://github.com/7zh14" target="_blank">7zh14 — Co Owner</a></li>
         </ul>
   </p>
     </header>
