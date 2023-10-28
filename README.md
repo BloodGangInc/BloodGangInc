@@ -3,11 +3,11 @@
         <p>Welcome to my GitHub page!</p>
     </header>
     <div class="container">
-        <h2>Hello, I'm BloodGangInc</h2>
+        <h2>Hello, welcome to Blood Gang™️, Inc</h2>
         <p>
-            I'm a passionate developer and enthusiast in the world of coding and open-source software. My journey in the tech world has been full of exciting challenges and opportunities, and I'm here to share some of my work and interests with you.
+            We're a passionate developer and enthusiast in the world of coding and open-source software. Our journey in the tech world has been full of exciting challenges and opportunities, and we are here to share some of my work and interests with you.
         </p>
-        <h2>My Interests</h2>
+        <h2>Interests</h2>
         <ul>
             <li>Software Development</li>
             <li>Web Development</li>
@@ -17,7 +17,7 @@
         </ul>
         <h2>What You'll Find Here</h2>
         <p>
-            This GitHub account is a place where I showcase my projects, collaborate with others, and contribute to open-source communities. Feel free to explore my repositories and contributions. If you'd like to get in touch or collaborate, don't hesitate to contact me.
+            This GitHub account is a place where we showcase our projects, collaborate with others, and contribute to open-source communities. Feel free to explore my repositories and contributions. If you'd like to get in touch or collaborate, don't hesitate to contact us.
         </p>
     </div>
 </body>
