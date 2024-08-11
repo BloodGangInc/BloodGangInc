@@ -19,7 +19,7 @@
             <li><a href = "https://github.com/Blood-Gang-Inc"; target="_blank">Software Development</a></li>
             <li><a href = "https://linkr.it/bloodweb"; target="_blank">Web Development</a></li>
             <li><a href = "https://twitter.com/WaistStudios"; target="_blank">Game Development</a></li>
-            <li><a href = "https://discord.gg/vrkt69UjxK"; target="_blank">Open Source Projects</a></li>
+            <li><a href = "https://linkr.it/blood"; target="_blank">Open Source Projects</a></li>
             <li><a href = "https://youtube.com/@BloodGangInc"; target="_blank">Collaboration and Learning</a></li>
         </ul>
         <h2>What You'll Find Here</h2>
