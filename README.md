@@ -1,6 +1,4 @@
  <header>
-        <h1><a href = "https://degenerates2.carrd.co"; target="_blank">About Us</a></h1>
-        <p>Welcome to our GitHub page!</p>
   <p>
    <h5><img src="https://github.com/user-attachments/assets/ba78de70-ec68-45e8-8d4b-fbc5de812820" alt="BG Official"> Follow our Team Leaders:</h5>
           <ul>
