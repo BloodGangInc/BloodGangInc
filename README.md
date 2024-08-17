@@ -7,8 +7,7 @@
          <li><a href = "https://degenerates2.carrd.co/#l4zx16"; target="_blank">Owner</a></li>
            <li><a href = "https://degenerates2.carrd.co/#l7zh14"; target="_blank">Co Owner</a></li>
         </ul>
-  ![image](https://github.com/user-attachments/assets/ba78de70-ec68-45e8-8d4b-fbc5de812820) Official Blood Gang Account
-
+ <img src="https://github.com/user-attachments/assets/ba78de70-ec68-45e8-8d4b-fbc5de812820" alt="BG Official">
   </p>
     </header>
     <div class="container">
