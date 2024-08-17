@@ -11,14 +11,14 @@
     </header>
     <div class="container">
         <h2>Hello, welcome to <a href = "https://blood-gang-inc.github.io/.github/"; target="_blank">Blood Gang™️, Inc!</a>💖</h2>
-        <p>
-            We're a passionate developer and enthusiast in the world of coding and open-source software. Our journey in the tech world has been full of exciting challenges and opportunities, and we are here to share some of my work and interests with you.
-        </p>
-                                                             <div class="button-container">
+                                                                  <div class="button-container">
             <a class="button" href="https://linkr.it/blood" target="_blank">
                 <img src="https://files.catbox.moe/cunqhf.png" alt="Discord's Logo" style="vertical-align: middle;">
             </a>
         </div>
+        <p>
+            We're a passionate developer and enthusiast in the world of coding and open-source software. Our journey in the tech world has been full of exciting challenges and opportunities, and we are here to share some of my work and interests with you.
+        </p>
         <h2>Interests</h2>
         <ul>
             <li><a href = "https://github.com/Blood-Gang-Inc"; target="_blank">Software Development</a></li>
