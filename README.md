@@ -2,10 +2,10 @@
         <h1><a href = "https://degenerates2.carrd.co"; target="_blank">About Us</a></h1>
         <p>Welcome to our GitHub page!</p>
   <p>
-   <h5><img src="https://github.com/user-attachments/assets/ba78de70-ec68-45e8-8d4b-fbc5de812820" alt="BG Official"> Follow our Team Leaders:</h2>
+   <h5><img src="https://github.com/user-attachments/assets/ba78de70-ec68-45e8-8d4b-fbc5de812820" alt="BG Official"> Follow our Team Leaders:</h5>
           <ul>
-           <img src="https://degenerates2.carrd.co/assets/images/image09.png?v=08f262e0" alt="4zx16's Profile"><li><a href = "https://degenerates2.carrd.co/#l4zx16";target="_blank"> 4zx16</a></li>
-            <img src="https://degenerates2.carrd.co/assets/images/image10.png?v=08f262e0" alt="7zh14's Profile"><<li><a href = "https://degenerates2.carrd.co/#l7zh14"; target="_blank">7zh14</a></li>
+  <li><a href = "https://degenerates2.carrd.co/#l4zx16";target="_blank"> 4zx16</a></li>
+ <li><a href = "https://degenerates2.carrd.co/#l7zh14"; target="_blank">7zh14</a></li>
         </ul>
   </p>
     </header>
