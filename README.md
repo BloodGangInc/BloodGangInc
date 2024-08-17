@@ -10,7 +10,7 @@
   </p>
     </header>
     <div class="container">
-        <h2>Hello, welcome to <a href = "https://blood-gang-inc.github.io/.github/"; target="_blank">Blood Gang™️, Inc!</a>💖</h2>
+        <h2><img src="https://github.com/user-attachments/assets/9f0e8206-d37e-4ce9-9fa4-fb1832e4c8c2" alt="BG's Logo"> Hello, welcome to <a href = "https://blood-gang-inc.github.io/.github/"; target="_blank">Blood Gang™️, Inc!</a>💖</h2>
                                                                   <div class="button-container">
             <a class="button" href="https://linkr.it/blood" target="_blank">
                 <img src="https://files.catbox.moe/cunqhf.png" alt="Discord's Logo" style="vertical-align: middle;">
