@@ -7,6 +7,7 @@
          <li><a href = "https://degenerates2.carrd.co/#l4zx16"; target="_blank">Owner</a></li>
            <li><a href = "https://degenerates2.carrd.co/#l7zh14"; target="_blank">Co Owner</a></li>
         </ul>
+  <img scr="https://avatars.githubusercontent.com/u/122091778?v=4" alt="Official BG"> 
   </p>
     </header>
     <div class="container">
